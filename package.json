@@ -1,0 +1,28 @@
+{
+  "name": "project-mvc",
+  "version": "1.0.0",
+  "description": "",
+ "scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianlp-hub/project-mvc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianlp-hub/project-mvc/issues"
+  },
+  "homepage": "https://github.com/julianlp-hub/project-mvc#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "mysql2": "^3.24.6",
+    "next": "^16.4.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}
